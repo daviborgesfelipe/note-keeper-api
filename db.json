@@ -40,7 +40,7 @@
         "titulo": "Casa",
         "id": 7
       },
-      "arquivado": true
+      "arquivada": false
     },
     {
       "titulo": "Pagar IPVA e Manutenção",
@@ -52,7 +52,6 @@
         "titulo": "Carro",
         "id": 5
       },
-      "arquivido": true,
       "arquivada": false
     },
     {
@@ -65,7 +64,7 @@
         "titulo": "Estudos",
         "id": 1
       },
-      "arquivado": true
+      "arquivada": false
     },
     {
       "titulo": "Projeto NoteKeeper",
@@ -77,7 +76,7 @@
         "titulo": "Estudos",
         "id": 1
       },
-      "arquivido": false
+      "arquivada": false
     },
     {
       "titulo": "Comprar para não faltar",
@@ -89,7 +88,7 @@
         "titulo": "Mercado",
         "id": 4
       },
-      "arquivido": false
+      "arquivida": false
     },
     {
       "titulo": "Surf Trip",
@@ -101,7 +100,7 @@
         "titulo": "Lazer",
         "id": 3
       },
-      "arquivido": false
+      "arquivada": false
     }
   ]
 }
