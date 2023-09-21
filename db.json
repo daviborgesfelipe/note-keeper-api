@@ -40,7 +40,7 @@
         "titulo": "Casa",
         "id": 7
       },
-      "arquivada": false
+      "arquivada": true
     },
     {
       "titulo": "Pagar IPVA e Manutenção",
@@ -52,7 +52,7 @@
         "titulo": "Carro",
         "id": 5
       },
-      "arquivada": false
+      "arquivada": true
     },
     {
       "titulo": "Output e Event Emitter",
@@ -64,7 +64,7 @@
         "titulo": "Estudos",
         "id": 1
       },
-      "arquivada": false
+      "arquivada": true
     },
     {
       "titulo": "Projeto NoteKeeper",
@@ -88,7 +88,7 @@
         "titulo": "Mercado",
         "id": 4
       },
-      "arquivida": false
+      "arquivada": false
     },
     {
       "titulo": "Surf Trip",
